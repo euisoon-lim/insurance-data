@@ -1,4 +1,3 @@
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
     const sumItemIndex = jsonData.findIndex(item => item["담보명"] === "합계");
